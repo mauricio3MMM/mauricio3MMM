@@ -8,7 +8,7 @@
         :root {
             --bg-principal: #f9fbf9;
             --bg-card: #ffffff;
-            --texto-principal: #333333;
+            --texto-principal: #383838;
             --texto-secundario: #666666;
             --cor-verde: #2e7d32;
             --cor-verde-escuro: #1b5e20;
@@ -17,7 +17,7 @@
         }
 
         [data-theme="dark"] {
-            --bg-principal: #121212;
+            --bg-principal: #666666;
             --bg-card: #1e1e1e;
             --texto-principal: #e0e0e0;
             --texto-secundario: #aaaaaa;
@@ -97,7 +97,7 @@
 
         /* Hero */
         .hero {
-            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://unsplash.com') no-repeat center center/cover;
+            background: linear-gradient(rgba(33, 172, 40, 0.5), rgba(202, 202, 202, 0.692)), url('https://unsplash.com') no-repeat center center/cover;
             height: 60vh;
             display: flex;
             flex-direction: column;
@@ -112,7 +112,7 @@
         .hero p { font-size: 18px; max-width: 600px; margin-bottom: 25px; }
 
         .btn {
-            background-color: #2e7d32;
+            background-color: #1d741d;
             color: white;
             padding: 12px 30px;
             text-decoration: none;
