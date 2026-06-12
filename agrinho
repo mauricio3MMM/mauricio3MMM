@@ -103,7 +103,7 @@
   <section id="inicio" class="relative min-h-[80vh] flex items-center justify-center overflow-hidden pt-24 bg-cover bg-center text-white text-center px-4" style="background-image: linear-gradient(to bottom, rgba(27, 94, 32, 0.85), rgba(18, 18, 18, 0.85)), url('https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&q=80&w=1400');">
     <div class="relative z-10 mx-auto max-w-4xl py-12">
       <span class="inline-flex items-center gap-2 rounded-full bg-white/10 px-4 py-2 text-sm font-medium text-emerald-200 mb-6 backdrop-blur-sm">
-        🌱 Sustentabilidade e Tecnologia no Campo
+         Sustentabilidade e Tecnologia no Campo
       </span>
       <h1 class="text-4xl font-extrabold tracking-tight sm:text-6xl lg:text-7xl mb-6">
         Agro Forte, <span class="text-emerald-300">Futuro Sustentável</span>
@@ -158,23 +158,29 @@
           </p>
         </div>
         <div class="relative h-72 sm:h-96 rounded-2xl overflow-hidden shadow-xl">
-          <img src="https://images.unsplash.com/photo-1625246333195-78d9c38ad451?auto=format&fit=crop&q=80&w=800" alt="Plantação sustentável tecnológica" class="w-full h-full object-cover">
+          <img src="agro.jpg" alt="Plantação sustentável tecnológica" class="w-full h-full object-cover">
         </div>
       </div>
 
       <div class="mx-auto mt-16 max-w-5xl grid grid-cols-1 gap-8 md:grid-cols-3">
         <div class="rounded-2xl border border-border-light dark:border-border-dark bg-card-light dark:bg-card-dark p-8 shadow-sm">
-          <div class="flex h-12 w-12 items-center justify-center rounded-xl bg-emerald-100 dark:bg-emerald-950 text-primary dark:text-primary-dark mb-6">🌱</div>
+          <div class="flex h-12 w-12 items-center justify-center rounded-xl bg-emerald-100 dark:bg-emerald-950 text-primary dark:text-primary-dark mb-6">
+            <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364-6.364l-.707.707M6.343 17.657l-.707.707m2.828-9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg>
+          </div>
           <h3 class="text-xl font-semibold mb-3">Sustentabilidade</h3>
           <p class="text-texto-secundario dark:text-texto-secundarioDark text-sm">Práticas agrícolas que respeitam os ciclos naturais e preservam a biodiversidade local para as futuras gerações.</p>
         </div>
         <div class="rounded-2xl border border-border-light dark:border-border-dark bg-card-light dark:bg-card-dark p-8 shadow-sm">
-          <div class="flex h-12 w-12 items-center justify-center rounded-xl bg-emerald-100 dark:bg-emerald-950 text-primary dark:text-primary-dark mb-6">🤝</div>
+          <div class="flex h-12 w-12 items-center justify-center rounded-xl bg-emerald-100 dark:bg-emerald-950 text-primary dark:text-primary-dark mb-6">
+            <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"/></svg>
+          </div>
           <h3 class="text-xl font-semibold mb-3">Responsabilidade</h3>
           <p class="text-texto-secundario dark:text-texto-secundarioDark text-sm">Compromisso inegociável com as comunidades rurais, segurança do trabalhador e desenvolvimento socioeconômico do campo.</p>
         </div>
         <div class="rounded-2xl border border-border-light dark:border-border-dark bg-card-light dark:bg-card-dark p-8 shadow-sm">
-          <div class="flex h-12 w-12 items-center justify-center rounded-xl bg-emerald-100 dark:bg-emerald-950 text-primary dark:text-primary-dark mb-6">🚀</div>
+          <div class="flex h-12 w-12 items-center justify-center rounded-xl bg-emerald-100 dark:bg-emerald-950 text-primary dark:text-primary-dark mb-6">
+            <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/></svg>
+          </div>
           <h3 class="text-xl font-semibold mb-3">Inovação</h3>
           <p class="text-texto-secundario dark:text-texto-secundarioDark text-sm">Tecnologias de ponta, Big Data e IoT aplicados ao agronegócio para maximizar eficiência ecológica.</p>
         </div>
@@ -210,7 +216,7 @@
         <div class="group relative rounded-2xl border border-border-light dark:border-border-dark bg-background-light dark:bg-background-dark p-8 hover:border-primary transition-all overflow-hidden">
           <div class="flex items-center justify-between mb-4">
             <span class="text-5xl font-black text-neutral-200 dark:text-neutral-800 group-hover:text-primary/20">03</span>
-            <div class="text-2xl p-2 bg-emerald-50 dark:bg-emerald-950 rounded-lg">🛰️</div>
+            <div class="text-2xl p-2 bg-emerald-50 dark:bg-emerald-950 rounded-lg">🛸</div>
           </div>
           <h3 class="text-xl font-bold mb-2 group-hover:text-primary">Agricultura de Precisão</h3>
           <p class="text-sm text-texto-secundario dark:text-texto-secundarioDark leading-relaxed">Sensoriamento por drones de alta definição e satélite. Defensivos e adubações aplicados somente onde há indicação geoespacial de necessidade.</p>
@@ -218,7 +224,7 @@
         <div class="group relative rounded-2xl border border-border-light dark:border-border-dark bg-background-light dark:bg-background-dark p-8 hover:border-primary transition-all overflow-hidden">
           <div class="flex items-center justify-between mb-4">
             <span class="text-5xl font-black text-neutral-200 dark:text-neutral-800 group-hover:text-primary/20">04</span>
-            <div class="text-2xl p-2 bg-emerald-50 dark:bg-emerald-950 rounded-lg">🔄</div>
+            <div class="text-2xl p-2 bg-emerald-50 dark:bg-emerald-950 rounded-lg">♻️</div>
           </div>
           <h3 class="text-xl font-bold mb-2 group-hover:text-primary">Economia Circular Plena</h3>
           <p class="text-sm text-texto-secundario dark:text-texto-secundarioDark leading-relaxed">Tratamento inteligente e compostagem de bio-resíduos da colheita e pecuária, transformando passivos ambientais em fertilizantes ricos de alto padrão.</p>
@@ -333,10 +339,70 @@
       if (document.documentElement.classList.contains('dark')) {
         document.documentElement.classList.remove('dark');
         btnTema.textContent = 'Modo Escuro';
+        btnTemaMobile.textContent = 'Tema';
       } else {
         document.documentElement.classList.add('dark');
         btnTema.textContent = 'Modo Claro';
+        btnTemaMobile.textContent = 'Claro';
       }
     }
     btnTema.addEventListener('click', toggleTheme);
-    btnTemaMobile.
+    btnTemaMobile.addEventListener('click', toggleTheme);
+
+    // 2. Controle do Menu Mobile (Abrir e Fechar)
+    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+    const mobileMenu = document.getElementById('mobile-menu');
+    const mobileMenuLinks = mobileMenu.querySelectorAll('a');
+
+    mobileMenuBtn.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+
+    mobileMenuLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        mobileMenu.classList.add('hidden');
+      });
+    });
+
+    // 3. Simulador Web Interativo
+    const hectaresInput = document.getElementById('hectaresInput');
+    const resAgua = document.getElementById('resAgua');
+    const resCarbono = document.getElementById('resCarbono');
+    const resProd = document.getElementById('resProd');
+
+    hectaresInput.addEventListener('input', (e) => {
+      const hectares = parseFloat(e.target.value);
+
+      if (isNaN(hectares) || hectares <= 0) {
+        resAgua.textContent = '0 L';
+        resCarbono.textContent = '0 kg';
+        resProd.textContent = '+0%';
+        return;
+      }
+
+      const aguaPoupada = hectares * 12000;  
+      const co2Evitado = hectares * 450;     
+      const eficiencia = Math.min(35, (hectares * 0.08) + 15).toFixed(1); 
+
+      resAgua.textContent = `${aguaPoupada.toLocaleString('pt-BR')} L`;
+      resCarbono.textContent = `${co2Evitado.toLocaleString('pt-BR')} kg`;
+      resProd.textContent = `+${eficiencia}%`;
+    });
+
+    // 4. Envio do Formulário de Contato com Feedback Visual
+    const formContato = document.getElementById('formContato');
+    const mensagemSucesso = document.getElementById('mensagemSucesso');
+
+    formContato.addEventListener('submit', (e) => {
+      e.preventDefault(); 
+      
+      mensagemSucesso.classList.remove('hidden');
+      formContato.reset();
+
+      setTimeout(() => {
+        mensagemSucesso.classList.add('hidden');
+      }, 5000);
+    });
+  </script>
+</body>
+</html>
